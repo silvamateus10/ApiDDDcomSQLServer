@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RestAPIModeloDDD.API.props" />
+</Project>

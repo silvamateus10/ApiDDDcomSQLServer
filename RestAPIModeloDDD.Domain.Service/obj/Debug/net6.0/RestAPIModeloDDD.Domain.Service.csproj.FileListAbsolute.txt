@@ -1,0 +1,17 @@
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\bin\Debug\net6.0\RestAPIModeloDDD.Domain.Service.deps.json
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\bin\Debug\net6.0\RestAPIModeloDDD.Domain.Service.dll
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\bin\Debug\net6.0\RestAPIModeloDDD.Domain.Service.pdb
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\bin\Debug\net6.0\RestAPIModeloDDD.Domain.Core.dll
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\bin\Debug\net6.0\RestAPIModeloDDD.Domain.dll
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\bin\Debug\net6.0\RestAPIModeloDDD.Domain.Core.pdb
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\bin\Debug\net6.0\RestAPIModeloDDD.Domain.pdb
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\obj\Debug\net6.0\RestAPIModeloDDD.Domain.Service.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\obj\Debug\net6.0\RestAPIModeloDDD.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\obj\Debug\net6.0\RestAPIModeloDDD.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\obj\Debug\net6.0\RestAPIModeloDDD.Domain.Service.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\obj\Debug\net6.0\RestAPIModeloDDD.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\obj\Debug\net6.0\RestAPIModeloDDD.Domain.Service.csproj.CopyComplete
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\obj\Debug\net6.0\RestAPIModeloDDD.Domain.Service.dll
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\obj\Debug\net6.0\refint\RestAPIModeloDDD.Domain.Service.dll
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\obj\Debug\net6.0\RestAPIModeloDDD.Domain.Service.pdb
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Service\obj\Debug\net6.0\ref\RestAPIModeloDDD.Domain.Service.dll
