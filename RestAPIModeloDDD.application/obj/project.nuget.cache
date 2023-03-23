@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "E5TTJ+c7xQtWr/AZl4MJQeJ0RWdEEOY5yg67nrxyiucrIo5gWdU56+y3mzO4tiAxDNCsB4mlebsR7W19d8Ix3A==",
+  "dgSpecHash": "mU4nEUfJ8T98pv22N5sUWdT9pg02Cgs43aTzjfBQ7at7AEvkN10LokELMJMzQN3hFxW3WCl9ugfFoalLu1jPpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mateus\\source\\repos\\RestAPIModeloDDD\\RestAPIModeloDDD.application\\RestAPIModeloDDD.application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateus\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Mateus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RestAPIModeloDDD.application.Interfaces
 {
-    public interface IProdutoApplicationService
+    public interface IProdutoApplication
     {
         void Add(ProdutoDto produtoDto);
         void Update(ProdutoDto produtoDto);

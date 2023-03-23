@@ -1,6 +1,8 @@
-﻿using RestAPIModeloDDD.application.Dtos;
+﻿using AutoMapper;
+using RestAPIModeloDDD.application.Dtos;
 using RestAPIModeloDDD.application.Interfaces;
 using RestAPIModeloDDD.Domain.Core.Interface.Services;
+using RestAPIModeloDDD.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,45 +11,45 @@ using System.Threading.Tasks;
 
 namespace RestAPIModeloDDD.application
 {
-    public class ClienteApplicationService : IClienteApplicationService
+    public class ClienteApplication : IClienteApplication
     {
         private readonly IClienteService clienteService;
-        private readonly IClienteMapper clienteMapper;
-        public ClienteApplicationService(IClienteService clienteService, IClienteMapper clienteMapper)
+        private readonly IMapper mapper;
+        public ClienteApplication(IClienteService clienteService, IMapper mapper)
         {
             this.clienteService = clienteService;
-            this.clienteMapper = clienteMapper;
+            this.mapper = mapper;
         }
 
         public void Add(ClienteDto clienteDto)
         {
-            var cliente = clienteMapper.MapperDtoToEntity(clienteDto);
+            var cliente = mapper.Map<Cliente>(clienteDto);
             clienteService.Add(cliente);
         }
 
         public IEnumerable<ClienteDto> GetAll()
         {
             var clientes = clienteService.GetAll();
-            var clientesDto = clienteMapper.MapperLitsClienteDto(clientes);
+            var clientesDto = mapper.Map<IEnumerable<ClienteDto>>(clientes);
             return clientesDto;
         }
 
         public ClienteDto GetById(int id)
         {
             var cliente = clienteService.GetById(id);
-            var clienteDto = clienteMapper.MapperEntityToDto(cliente);
+            var clienteDto = mapper.Map<ClienteDto>(cliente);
             return clienteDto;
         }
 
         public void Remove(ClienteDto clienteDto)
         {
-            var cliente = clienteMapper.MapperDtoToEntity(clienteDto);
+            var cliente = mapper.Map<Cliente>(clienteDto);
             clienteService.Remove(cliente);
         }
 
         public void Update(ClienteDto clienteDto)
         {
-            var cliente = clienteMapper.MapperDtoToEntity(clienteDto);
+            var cliente = mapper.Map<Cliente>(clienteDto);
             clienteService.Update(cliente);
         }
     }

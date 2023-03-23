@@ -10,9 +10,9 @@ namespace RestAPIModeloDDD.API.Controllers
     [ApiController]
     public class ProdutoController : Controller
     {
-        private readonly IProdutoApplicationService produtoApplicationService;
+        private readonly IProdutoApplication produtoApplicationService;
 
-        public ProdutoController(IProdutoApplicationService produtoApplicationService)
+        public ProdutoController(IProdutoApplication produtoApplicationService)
         {
             this.produtoApplicationService = produtoApplicationService;
         }

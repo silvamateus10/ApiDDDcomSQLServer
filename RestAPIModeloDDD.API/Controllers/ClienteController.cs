@@ -9,9 +9,9 @@ namespace RestAPIModeloDDD.API.Controllers
     public class ClienteController : Controller
     {
 
-        private readonly IClienteApplicationService clienteApplicationService;
+        private readonly IClienteApplication clienteApplicationService;
 
-        public ClienteController(IClienteApplicationService clienteApplicationService)
+        public ClienteController(IClienteApplication clienteApplicationService)
         {
             this.clienteApplicationService = clienteApplicationService;
         }

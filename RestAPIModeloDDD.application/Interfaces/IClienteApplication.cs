@@ -2,7 +2,7 @@
 
 namespace RestAPIModeloDDD.application.Interfaces
 {
-    public interface IClienteApplicationService
+    public interface IClienteApplication
     {
         void Add(ClienteDto clienteDto);
         void Update(ClienteDto clienteDto);

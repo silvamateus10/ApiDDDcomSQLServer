@@ -89,3 +89,5 @@ C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.API\obj\Debug\net
 C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.API\obj\Debug\net6.0\RestAPIModeloDDD.API.pdb
 C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.API\obj\Debug\net6.0\RestAPIModeloDDD.API.genruntimeconfig.cache
 C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.API\obj\Debug\net6.0\ref\RestAPIModeloDDD.API.dll
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Mateus\source\repos\RestAPIModeloDDD\RestAPIModeloDDD.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
